@@ -4,7 +4,7 @@ The creation of this module is based on the article below:
 
 Jayadeva, Sumit Soman, Soumya Saxena,
 
-EigenSample: A non-iterative technique for adding samples to small datasets,
+****EigenSample: A non-iterative technique for adding samples to small datasets****,
 
 Applied Soft Computing,
 
