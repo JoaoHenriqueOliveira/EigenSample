@@ -7,15 +7,11 @@ Jayadeva, Sumit Soman, Soumya Saxena,
 
 ****EigenSample: A non-iterative technique for adding samples to small datasets****,
 
-Applied Soft Computing,\
-
-Volume 70,\
-
-2018,\
-
-Pages 1064-1077,\
-
-ISSN 1568-4946,\
+Applied Soft Computing,
+Volume 70,
+2018,
+Pages 1064-1077,
+ISSN 1568-4946,
 
 [Science Direct](http://www.sciencedirect.com/science/article/pii/S1568494617304994)
 
