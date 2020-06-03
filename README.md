@@ -1,7 +1,7 @@
 # EigenSample
 Python module for performing data augmentation
 The creation of this module is based on the article below:
-(___________________________________________________________________________________________________________________________) 
+_____________________________________________________________________________________________________________________________ 
 
 Jayadeva, Sumit Soman, Soumya Saxena,
 
